@@ -7,30 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-<div class="small-text">
-I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by <a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>.
-I received my B.S. in Electrical & Electronic Engineering from Yonsei University.
+<p style="font-size: 0.92em; line-height: 1.6;">
+I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by 
+<a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>. 
+I received my B.S. in Electrical & Electronic Engineering from Yonsei University. 
 My research interests are summarized below.
-</div>
+</p>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Research Interests</p>
 <hr class="section-hr">
 
-<div class="small-text">
-My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on **reducing the computational cost of Deep Neural Networks (DNNs)** that achieve superior accuracy through increased complexity, via **algorithm–hardware co-design**. Specifically, my research agenda includes:
+<p style="font-size: 0.92em; line-height: 1.6;">
+My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on <strong>reducing the computational cost of Deep Neural Networks (DNNs)</strong> that achieve superior accuracy through increased complexity, via <strong>algorithm–hardware co-design</strong>. Specifically, my research agenda includes:
+</p>
 
-- Development of DNN accelerators
-- Design of hardware-friendly DNNs (e.g., quantized or sparsified models)
-- Model compression algorithms for efficient inference
+<ul style="font-size: 0.92em; line-height: 1.6;">
+  <li>Development of DNN accelerators</li>
+  <li>Design of hardware-friendly DNNs (e.g., quantized or sparsified models)</li>
+  <li>Model compression algorithms for efficient inference</li>
+</ul>
 
-Currently, my research primarily targets **generative models**, including **large language models (LLMs)** and **diffusion models**, with a focus on practical efficiency and scalability. As these models are increasingly deployed in long-context settings, the associated memory and compute costs grow rapidly, creating fundamental barriers to real-world adoption. My work seeks to address these challenges through principled algorithm design, with the goal of making powerful generative models accessible under realistic resource constraints. Ongoing research topics include:
+<p style="font-size: 0.92em; line-height: 1.6;">
+Currently, my research primarily targets <strong>generative models</strong>, including <strong>large language models (LLMs)</strong> and <strong>diffusion models</strong>, with a focus on practical efficiency and scalability. As these models are increasingly deployed in long-context settings, the associated memory and compute costs grow rapidly, creating fundamental barriers to real-world adoption. My work seeks to address these challenges through principled algorithm design, with the goal of making powerful generative models accessible under realistic resource constraints. Ongoing research topics include:
+</p>
 
-- Quantization and pruning algorithms for LLMs and diffusion models
-- KV cache compression and sparse attention for long-context LLM inference
-- Kernel-level optimization for high-throughput generative models
+<ul style="font-size: 0.92em; line-height: 1.6;">
+  <li>Quantization and pruning algorithms for LLMs and diffusion models</li>
+  <li>KV cache compression and sparse attention for long-context LLM inference</li>
+  <li>Kernel-level optimization for high-throughput generative models</li>
+</ul>
 
-**\*Keywords:** *Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design*
-</div>
+<p style="font-size: 0.92em; line-height: 1.6;">
+<strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
+</p>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
