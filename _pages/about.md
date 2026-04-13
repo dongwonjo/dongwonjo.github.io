@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Research Interests**
-<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
+<p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Research Interests</p>
+<hr class="section-hr">
 
 My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on **reducing the computational cost of Deep Neural Networks (DNNs)** that achieve superior accuracy through increased complexity, via **algorithm–hardware co-design**. Specifically, my research agenda includes:
 
@@ -24,8 +24,8 @@ Currently, my research primarily targets **generative models**, including **larg
 
 **\*Keywords:** *Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design*
 
-**Education**
-<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
+<p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Education</p>
+<hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
@@ -49,8 +49,8 @@ Currently, my research primarily targets **generative models**, including **larg
   </tr>
 </table>
 
-**Work Experiences**
-<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
+<p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Work Experiences</p>
+<hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
