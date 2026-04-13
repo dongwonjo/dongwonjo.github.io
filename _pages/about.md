@@ -8,7 +8,7 @@ redirect_from:
 ---
 <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.2em;">Dongwon Jo</p>
 
-<p style="font-size: 0.90em; line-height: 1.6; margin-top: 12px;">
+<p style="font-size: 0.90em; line-height: 1.6; margin-top: 15px;">
 I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by 
 <a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>. 
 I received my B.S. in Electrical & Electronic Engineering from Yonsei University. 
