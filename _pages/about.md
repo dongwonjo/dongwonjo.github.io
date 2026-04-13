@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by Prof. Jae-Joon Kim.
+I received my B.S. in Electrical & Electronic Engineering from Yonsei University.
+My research interests are summarized below.
+
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Research Interests</p>
 <hr class="section-hr">
 
