@@ -94,6 +94,14 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   <tr style="border:none;">
     <td style="border:none; padding: 2px 0;" colspan="2">with Prof. Jae-Joon Kim</td>
   </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 4px 0;"><strong>Republic of Korea Air Force (ROKAF)</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;">Sergeant (Military Service)</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Jan. 2018 – Dec. 2021</td>
+  </tr>
 </table>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Academic Services</p>
