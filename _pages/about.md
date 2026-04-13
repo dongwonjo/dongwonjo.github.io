@@ -8,7 +8,7 @@ redirect_from:
 ---
 <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.2em;">Dongwon Jo</p>
 
-<p style="font-size: 0.90em; line-height: 1.6; margin-top: 15px;">
+<p style="font-size: 0.88em; line-height: 1.6; margin-top: 15px;">
 I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by 
 <a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>. 
 I received my B.S. in Electrical & Electronic Engineering from Yonsei University. 
@@ -18,27 +18,27 @@ My research interests are summarized below.
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Research Interests</p>
 <hr class="section-hr">
 
-<p style="font-size: 0.90em; line-height: 1.6;">
+<p style="font-size: 0.88em; line-height: 1.6;">
 My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on <strong>reducing the computational cost of Deep Neural Networks (DNNs)</strong> that achieve superior accuracy through increased complexity, via <strong>algorithm–hardware co-design</strong>. Specifically, my research agenda includes:
 </p>
 
-<ul style="font-size: 0.90em; line-height: 1.6;">
+<ul style="font-size: 0.88em; line-height: 1.6;">
   <li>Development of DNN accelerators</li>
   <li>Design of hardware-friendly DNNs (e.g., quantized or sparsified models)</li>
   <li>Model compression algorithms for efficient inference</li>
 </ul>
 
-<p style="font-size: 0.90em; line-height: 1.6;">
+<p style="font-size: 0.88em; line-height: 1.6;">
 Currently, my research primarily targets <strong>generative models</strong>, including <strong>large language models (LLMs)</strong> and <strong>diffusion models</strong>, with a focus on practical efficiency and scalability. As these models are increasingly deployed in long-context settings, the associated memory and compute costs grow rapidly, creating fundamental barriers to real-world adoption. My work seeks to address these challenges through principled algorithm design, with the goal of making powerful generative models accessible under realistic resource constraints. Ongoing research topics include:
 </p>
 
-<ul style="font-size: 0.90em; line-height: 1.6;">
+<ul style="font-size: 0.88em; line-height: 1.6;">
   <li>Quantization and pruning algorithms for LLMs and diffusion models</li>
   <li>KV cache compression and sparse attention for long-context LLM inference</li>
   <li>Kernel-level optimization for high-throughput generative models</li>
 </ul>
 
-<p style="font-size: 0.90em; line-height: 1.6;">
+<p style="font-size: 0.88em; line-height: 1.6;">
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
 
