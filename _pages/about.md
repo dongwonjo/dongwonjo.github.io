@@ -92,7 +92,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     <td style="border:none; padding: 2px 0; text-align:right;">Dec. 2021 – Jun. 2022</td>
   </tr>
   <tr style="border:none;">
-    <td style="border:none; padding: 2px 0;" colspan="2">with Prof. Jae-Joon Kim</td>
+    <td style="border:none; padding: 2px 0 12px 0;" colspan="2">with Prof. Jae-Joon Kim</td>
   </tr>
   <tr style="border:none;">
     <td style="border:none; padding: 4px 0;"><strong>Republic of Korea Air Force</strong></td>
