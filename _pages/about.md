@@ -9,7 +9,7 @@ redirect_from:
 
 ## Research Interests
 
-<hr style="border: 2px solid #555; margin: 0.3em 0 1em 0;">
+<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on **reducing the computational cost of Deep Neural Networks (DNNs)** that achieve superior accuracy through increased complexity, via **algorithm–hardware co-design**. Specifically, my research agenda includes:
 
@@ -27,7 +27,7 @@ Currently, my research primarily targets **generative models**, including **larg
 
 ## Education
 
-<hr style="border: 2px solid #555; margin: 0.3em 0 1em 0;">
+<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
@@ -53,7 +53,7 @@ Currently, my research primarily targets **generative models**, including **larg
 
 ## Work Experiences
 
-<hr style="border: 2px solid #555; margin: 0.3em 0 1em 0;">
+<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
