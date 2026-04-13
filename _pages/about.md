@@ -24,8 +24,7 @@ Currently, my research primarily targets **generative models**, including **larg
 
 **\*Keywords:** *Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design*
 
-## Education
-
+**Education**
 <hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -50,8 +49,7 @@ Currently, my research primarily targets **generative models**, including **larg
   </tr>
 </table>
 
-## Work Experiences
-
+**Work Experiences**
 <hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
