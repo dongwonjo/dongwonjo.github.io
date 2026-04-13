@@ -98,26 +98,26 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Academic Services</p>
 <hr class="section-hr">
 
-<table style="width:100%; border:none; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td style="padding: 4px 0;"><strong>Conference Reviewer</strong></td>
-    <td style="text-align:right;"></td>
+    <td style="border:none; padding: 4px 0;"><strong>Conference Reviewer</strong></td>
+    <td style="border:none; text-align:right;"></td>
   </tr>
   <tr>
-    <td style="padding: 2px 0;" colspan="2">NeurIPS 2025, ICML 2026</td>
+    <td style="border:none; padding: 2px 0;" colspan="2">NeurIPS 2025, ICML 2026</td>
   </tr>
 </table>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Teaching Experiences</p>
 <hr class="section-hr">
 
-<table style="width:100%; border:none; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td style="padding: 4px 0;"><strong>Teaching Assistant</strong></td>
-    <td style="padding: 4px 0; text-align:right;">Seoul National University</td>
+    <td style="border:none; padding: 4px 0;"><strong>Teaching Assistant</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul National University</td>
   </tr>
   <tr>
-    <td style="padding: 2px 0;">430.201A 002: Digital Logic Design and Lab</td>
-    <td style="padding: 2px 0; text-align:right;">Sep. 2022 – Dec. 2022</td>
+    <td style="border:none; padding: 2px 0;">430.201A 002: Digital Logic Design and Lab</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Sep. 2022 – Dec. 2022</td>
   </tr>
 </table>
