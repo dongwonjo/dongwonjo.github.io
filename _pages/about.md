@@ -27,21 +27,54 @@ Currently, my research primarily targets **generative models**, including **larg
 
 ## Education
 
-**Seoul National University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Seoul, Korea  
-M.S./Ph.D. in Electrical & Computer Engineering &emsp;&emsp;&emsp;&emsp;&emsp; Sep. 2022 – Present  
-Advisor: Prof. Jae-Joon Kim
-
-**Yonsei University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Seoul, Korea  
-B.S. in Electrical & Electronic Engineering &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mar. 2016 – Aug. 2022
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 4px 0;"><strong>Seoul National University</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;">M.S./Ph.D. in Electrical &amp; Computer Engineering</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Sep. 2022 – Present</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0 12px 0;" colspan="2">Advisor: Prof. Jae-Joon Kim</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 4px 0;"><strong>Yonsei University</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;">B.S. in Electrical &amp; Electronic Engineering</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Mar. 2016 – Aug. 2022</td>
+  </tr>
+</table>
 
 ---
 
 ## Work Experiences
 
-**SqueezeBits Inc.** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Seoul, Korea  
-Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2022 – Jul. 2022  
-External Collaborator &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb. 2023 – May. 2023
-
-**Seoul National University** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Seoul, Korea  
-Undergraduate Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dec. 2021 – Jun. 2022  
-with Prof. Jae-Joon Kim
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none; padding: 4px 0;"><strong>SqueezeBits Inc.</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;">Research Intern</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Jun. 2022 – Jul. 2022</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0 12px 0;">External Collaborator</td>
+    <td style="border:none; padding: 2px 0 12px 0; text-align:right;">Feb. 2023 – May. 2023</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 4px 0;"><strong>Seoul National University</strong></td>
+    <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;">Undergraduate Research Intern</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Dec. 2021 – Jun. 2022</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0;" colspan="2">with Prof. Jae-Joon Kim</td>
+  </tr>
+</table>
