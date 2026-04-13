@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides */
+.page__content h2 {
+  border-bottom: none;
+}
+
+hr.section-hr {
+  border: none;
+  border-top: 1px solid #555;
+  margin: 0 0 1em 0;
+}
+
+[data-theme="dark"] hr.section-hr {
+  border-top-color: #ccc;
+}
