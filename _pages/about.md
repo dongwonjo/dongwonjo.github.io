@@ -100,7 +100,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
   <tr style="border:none;">
     <td style="border:none; padding: 2px 0;">Sergeant (Military Service)</td>
-    <td style="border:none; padding: 2px 0; text-align:right;">Jan. 2018 – Dec. 2021</td>
+    <td style="border:none; padding: 2px 0; text-align:right;">Jan. 2018 – Dec. 2019</td>
   </tr>
 </table>
 
