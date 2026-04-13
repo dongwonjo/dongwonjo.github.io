@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.2em;">Dongwon Jo</p>
 
 <p style="font-size: 0.90em; line-height: 1.6; margin-top: 12px;">
 I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by 
