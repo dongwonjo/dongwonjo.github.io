@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by by 
-<a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>.
+I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by <a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>.
 I received my B.S. in Electrical & Electronic Engineering from Yonsei University.
 My research interests are summarized below.
 
