@@ -19,7 +19,7 @@ My research interests are summarized below.
 <hr class="section-hr">
 
 <p style="font-size: 0.85em; line-height: 1.6;">
-My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on <strong>reducing the computational cost of Deep Neural Networks (DNNs)</strong> that achieve superior accuracy through increased complexity, via <strong>algorithm–hardware co-design</strong>. Specifically, my research agenda includes:
+My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on <strong>reducing the computation and memory cost of Deep Neural Networks (DNNs)</strong> that achieve superior accuracy through increased complexity, via <strong>algorithm–hardware co-design</strong>. Specifically, my research agenda includes:
 </p>
 
 <ul style="font-size: 0.85em; line-height: 1.6;">
