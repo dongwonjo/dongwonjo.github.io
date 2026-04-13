@@ -98,7 +98,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Academic Services</p>
 <hr class="section-hr">
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="border:none; padding: 4px 0;"><strong>Conference Reviewer</strong></td>
     <td style="border:none; text-align:right;"></td>
@@ -111,7 +111,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Teaching Experiences</p>
 <hr class="section-hr">
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="border:none; padding: 4px 0;"><strong>Teaching Assistant</strong></td>
     <td style="border:none; padding: 4px 0; text-align:right;">Seoul National University</td>
