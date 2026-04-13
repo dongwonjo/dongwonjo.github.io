@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## Research Interests
-
-<hr style="border: 2px solid #555; margin: 0em 0 1em 0;">
+**Research Interests**
+<hr style="border: 2px solid #555; margin: 0.1em 0 1em 0;">
 
 My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on **reducing the computational cost of Deep Neural Networks (DNNs)** that achieve superior accuracy through increased complexity, via **algorithm–hardware co-design**. Specifically, my research agenda includes:
 
