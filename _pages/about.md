@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 0.92em; line-height: 1.6;">
-I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by Prof. Jae-Joon Kim.
+I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by by 
+<a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>.
 I received my B.S. in Electrical & Electronic Engineering from Yonsei University.
 My research interests are summarized below.
-</div>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Research Interests</p>
 <hr class="section-hr">
 
-<div style="font-size: 0.92em; line-height: 1.6;">
 My primary research aims to make model compression broadly applicable in real-world scenarios. A central theme of my work focuses on **reducing the computational cost of Deep Neural Networks (DNNs)** that achieve superior accuracy through increased complexity, via **algorithm–hardware co-design**. Specifically, my research agenda includes:
 
 - Development of DNN accelerators
@@ -30,7 +28,6 @@ Currently, my research primarily targets **generative models**, including **larg
 - Kernel-level optimization for high-throughput generative models
 
 **\*Keywords:** *Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design*
-</div>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
