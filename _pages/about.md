@@ -99,8 +99,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     <td style="border:none; padding: 4px 0; text-align:right;">Seoul, Korea</td>
   </tr>
   <tr style="border:none;">
-    <td style="border:none; padding: 2px 0;">Sergeant (Military Service)</td>
-    <td style="border:none; padding: 2px 0; text-align:right;">Jan. 2018 – Dec. 2019</td>
+    <td style="border:none; padding: 2px 0 12px 0;">Sergeant (Military Service)</td>
+    <td style="border:none; padding: 2px 0 12px 0; text-align:right;">Jan. 2018 – Dec. 2019</td>
   </tr>
 </table>
 
