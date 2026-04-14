@@ -193,10 +193,7 @@
 }
 
 .sidebar .author__desktop {
-  display: none;
-  @media screen and (min-width: 1024px) {
-    display: block;
-  }
+  display: block;
 }
 
 .author__pronouns {
@@ -219,11 +216,9 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
@@ -232,42 +227,22 @@
     }
   }
 
-  @include breakpoint($large) {
-    display: block;
-  }
-
   button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none;
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid var(--global-border-color);
-  border-radius: $border-radius;
-  background: var(--global-bg-color);
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: default;
 
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
 
   &:before {
     display: block;
