@@ -226,6 +226,7 @@
 }
 
 .author__urls {
+  // Small screens: flex-wrap pill layout
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
@@ -235,6 +236,14 @@
 
   li {
     display: inline-flex;
+  }
+
+  // Line-break helper: forces items after location/employer onto next row
+  li.author__urls-line-break {
+    flex-basis: 100%;
+    height: 0;
+    margin: 0;
+    padding: 0;
   }
 
   a {
@@ -252,6 +261,39 @@
     &:hover {
       background-color: var(--global-border-color);
       text-decoration: none;
+    }
+  }
+
+  // Large screens: restore original vertical list style
+  @include breakpoint($large) {
+    display: block;
+    gap: 0;
+    margin: 0;
+
+    li {
+      display: list-item;
+    }
+
+    li.author__urls-line-break {
+      display: none;
+    }
+
+    a {
+      display: block;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      font-size: $type-size-5;
+      margin-bottom: 5px;
+      padding-right: 5px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      transition: none;
+
+      &:hover {
+        background-color: transparent;
+        text-decoration: underline;
+      }
     }
   }
 }
