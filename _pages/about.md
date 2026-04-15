@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.2em;">Dongwon Jo</p>
 
 <p style="font-size: 0.85em; line-height: 1.6; margin-top: 15px;">
-I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by 
-<a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>. 
-I received my B.S. in Electrical & Electronic Engineering from Yonsei University. 
+I am a Ph.D. student in Electrical & Computer Engineering at Seoul National University, advised by <a href="https://vlsi.snu.ac.kr/" target="_blank">Prof. Jae-Joon Kim</a>.
+I received my B.S. in Electrical & Electronic Engineering from Yonsei University.
 My research interests are summarized below.
 </p>
 
@@ -41,6 +41,39 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <p style="font-size: 0.85em; line-height: 1.6;">
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
+
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Selected Research</p>
+<hr class="section-hr">
+
+<div class="selected-research">
+
+  <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
+    <div style="flex:0 0 150px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+    </div>
+    <div style="flex:1; min-width:0;">
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
+      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author A, Co-author B</p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In Conference/Journal 2024</em></p>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+    </div>
+  </div>
+
+  <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
+    <div style="flex:0 0 150px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+    </div>
+    <div style="flex:1; min-width:0;">
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
+      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author C, Co-author D</p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In Conference/Journal 2023</em></p>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+    </div>
+  </div>
+
+</div>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
@@ -121,12 +154,14 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
+  <tr style="border:none;">
     <td style="border:none; padding: 4px 0;"><strong>Teaching Assistant</strong></td>
     <td style="border:none; padding: 4px 0; text-align:right;">Seoul National University</td>
   </tr>
-  <tr>
-    <td style="border:none; padding: 2px 0;">430.201A 002: Digital Logic Design and Lab</td>
-    <td style="border:none; padding: 2px 0; text-align:right;">Sep. 2022 – Dec. 2022</td>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0 12px 0;" colspan="2">430.201A 002: Digital Logic Design and Lab</td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding: 2px 0; text-align:right;" colspan="2">Sep. 2022 – Dec. 2022</td>
   </tr>
 </table>
