@@ -52,7 +52,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
       <img src="/images/paper/TokenSparseAttention.PNG" alt="Paper thumbnail" style="width:200px; height:auto; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
-      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection</p>
       <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Beomseok Kang, Jiwon Song, Jae-Joon Kim</p>
       <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>arXiv 2026</em></p>
       <a href="https://arxiv.org/abs/2602.03216" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
