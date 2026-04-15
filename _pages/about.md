@@ -49,7 +49,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
   <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
-      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:160px; height:130px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
@@ -62,7 +62,20 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
   <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
-      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+    </div>
+    <div style="flex:1; min-width:0;">
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
+      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author C, Co-author D</p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In Conference/Journal 2023</em></p>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+    </div>
+  </div>
+
+  <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
+    <div style="flex:0 0 150px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:200px; height:150px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
