@@ -42,53 +42,40 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Selected Research</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Selected Research</p>
 <hr class="section-hr">
 
 <div class="selected-research">
 
-  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/TokenSparseAttention.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
+  <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
+    <div style="flex:0 0 150px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
-      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection</p>
-      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Beomseok Kang, Jiwon Song, Jae-Joon Kim</p>
-      <p style="font-size:0.8em; color:#666; margin:0 0 8px 0;"><em>arXiv 2026</em></p>
-      <a href="https://arxiv.org/abs/2602.03216" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="https://github.com/dongwonjo/Token-Sparse-Attention" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
+      <p class="research-authors" style="font-size:0.8em; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author A, Co-author B</p>
+      <p class="research-venue" style="font-size:0.8em; margin:0 0 8px 0;"><em>In Conference/Journal 2024</em></p>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
     </div>
   </div>
 
-  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/FastKV.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
+  <div style="display:flex; gap:16px; margin-bottom:20px; align-items:flex-start;">
+    <div style="flex:0 0 150px;">
+      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:150px; height:100px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
-      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration</p>
-      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo*</strong>, Jiwon Song*, Yulhwa Kim, Jae-Joon Kim</p>
-      <p style="font-size:0.8em; color:#666; margin:0 0 8px 0;"><em>ACL Findings 2026</em></p>
-      <a href="https://arxiv.org/abs/2502.01068" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="https://github.com/dongwonjo/FastKV" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
-    </div>
-  </div>
-
-  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/BinaryMoS.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
-    </div>
-    <div style="flex:1; min-width:0;">
-      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models</p>
-      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Taesu Kim, Yulhwa Kim, Jae-Joon Kim</p>
-      <p style="font-size:0.8em; color:#666; margin:0 0 8px 0;"><em>NeurIPS 2024</em></p>
-      <a href="https://arxiv.org/abs/2406.12311" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="https://github.com/dongwonjo/BinaryMoS" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
+      <p class="research-authors" style="font-size:0.8em; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author C, Co-author D</p>
+      <p class="research-venue" style="font-size:0.8em; margin:0 0 8px 0;"><em>In Conference/Journal 2023</em></p>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
     </div>
   </div>
 
 </div>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Education</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -113,7 +100,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Work Experiences</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Work Experiences</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -150,7 +137,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Academic Services</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Academic Services</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -163,7 +150,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Teaching</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Teaching Experiences</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
