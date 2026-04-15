@@ -169,9 +169,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     <td style="border:none; padding: 4px 0; text-align:right;">Seoul National University</td>
   </tr>
   <tr style="border:none;">
-    <td style="border:none; padding: 2px 0 12px 0;" colspan="2">430.201A 002: Digital Logic Design and Lab</td>
-  </tr>
-  <tr style="border:none;">
-    <td style="border:none; padding: 2px 0; text-align:right;" colspan="2">Sep. 2022 – Dec. 2022</td>
+    <td style="border:none; padding: 2px 0 12px 0;">430.201A 002: Digital Logic Design and Lab</td>
+    <td style="border:none; padding: 2px 0 12px 0; text-align:right;">Sep. 2022 – Dec. 2022</td>
   </tr>
 </table>
