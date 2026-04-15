@@ -47,7 +47,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
 <div class="selected-research">
 
-  <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
+  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
       <img src="/images/paper/TokenSparseAttention.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
@@ -60,7 +60,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     </div>
   </div>
 
-  <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
+  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
       <img src="/images/paper/FastKV.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
@@ -73,7 +73,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     </div>
   </div>
 
-  <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
+  <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
       <img src="/images/paper/BinaryMoS.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
