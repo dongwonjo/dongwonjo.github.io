@@ -15,7 +15,7 @@ I received my B.S. in Electrical & Electronic Engineering from Yonsei University
 My research interests are summarized below.
 </p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Research Interests</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Research Interests</p>
 <hr class="section-hr">
 
 <p style="font-size: 0.85em; line-height: 1.6;">
@@ -42,7 +42,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Selected Research</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 18px; margin-bottom: 0.2em;">Selected Research</p>
 <hr class="section-hr">
 
 <div class="selected-research">
@@ -88,7 +88,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
 </div>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Education</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 18px; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -113,7 +113,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Work Experiences</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 18px; margin-bottom: 0.2em;">Work Experiences</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -150,7 +150,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Academic Services</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 18px; margin-bottom: 0.2em;">Academic Services</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -163,7 +163,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.3em;">Teaching</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 18px; margin-bottom: 0.2em;">Teaching</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
