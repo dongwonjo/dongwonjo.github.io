@@ -160,7 +160,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Teaching Experiences</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Teaching</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
