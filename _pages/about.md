@@ -42,7 +42,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Selected Research <a href="/publication/" style="font-size:0.8em; font-weight:normal; color:#52adc8;">[Full List]</a></p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Selected Research <a href="/publications/" style="font-size:0.8em; font-weight:normal; color:#52adc8;">[Full List]</a></p>
 <hr class="section-hr">
 <div class="selected-research">
   
