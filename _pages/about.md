@@ -53,10 +53,10 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
-      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author A, Co-author B</p>
-      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In Conference/Journal 2024</em></p>
-      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Beomseok Kang, Jiwon Song, Jae-Joon Kim</p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>arXiv 2026</em></p>
+      <a href="https://arxiv.org/abs/2602.03216" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="https://github.com/dongwonjo/Token-Sparse-Attention" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
     </div>
   </div>
 
@@ -65,11 +65,11 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
       <img src="/images/paper/FastKV.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
-      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
-      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Co-author C, Co-author D</p>
-      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In Conference/Journal 2023</em></p>
-      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="#" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration</p>
+      <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo*</strong>, Jiwon Song*, Yulhwa Kim, Jae-Joon Kim</p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>ACL Findings 2026</em></p>
+      <a href="https://arxiv.org/abs/2502.01068" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
+      <a href="https://github.com/dongwonjo/FastKV" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
     </div>
   </div>
 
@@ -80,7 +80,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models</p>
       <p style="font-size:0.8em; color:#555; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Taesu Kim, Yulhwa Kim, Jae-Joon Kim</p>
-      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>In NeurIPS 2024</em></p>
+      <p style="font-size:0.8em; color:#777; margin:0 0 8px 0;"><em>NeurIPS 2024</em></p>
       <a href="https://arxiv.org/abs/2406.12311" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
       <a href="https://github.com/dongwonjo/BinaryMoS" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
     </div>
