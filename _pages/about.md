@@ -48,8 +48,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <div class="selected-research">
 
   <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/TokenSparseAttention.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
+    <div style="flex:0 0 220px;">
+      <img src="/images/paper/TokenSparseAttention.PNG" style="width:220px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection</p>
@@ -61,8 +61,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </div>
 
   <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/FastKV.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
+    <div style="flex:0 0 220px;">
+      <img src="/images/paper/FastKV.PNG" style="width:220px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration</p>
@@ -74,8 +74,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </div>
 
   <div style="display:flex; gap:16px; margin-bottom:24px; align-items:flex-start;">
-    <div style="flex:0 0 200px;">
-      <img src="/images/paper/BinaryMoS.PNG" style="width:200px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
+    <div style="flex:0 0 220px;">
+      <img src="/images/paper/BinaryMoS.PNG" style="width:220px; height:120px; object-fit:contain; background-color:white; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models</p>
