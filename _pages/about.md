@@ -42,7 +42,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 <strong>*Keywords:</strong> <em>Generative Models, Efficient Inference, Model Compression, Algorithm-Hardware Co-design</em>
 </p>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 20px; margin-bottom: 0.2em;">Selected Research <a href="/publication/" style="font-size:0.6em; font-weight:normal; color:#52adc8;">[Full List]</a></p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Selected Research <a href="/publication/" style="font-size:0.6em; font-weight:normal; color:#52adc8;">[Full List]</a></p>
 <hr class="section-hr">
 <div class="selected-research">
   
@@ -85,7 +85,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     </div>
   </div>
 </div>
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Education</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Education</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -110,7 +110,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Work Experiences</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Work Experiences</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -147,7 +147,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Academic Services</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Academic Services</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -160,7 +160,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   </tr>
 </table>
 
-<p style="font-size: 1.2em; font-weight: bold; margin-top: 15px; margin-bottom: 0.2em;">Teaching Experiences</p>
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Teaching Experiences</p>
 <hr class="section-hr">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
