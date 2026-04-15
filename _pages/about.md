@@ -49,7 +49,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
   <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
-      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+      <img src="/images/paper/TokenSparseAttention.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 1: Efficient Inference for Large Language Models via Structured Pruning</p>
@@ -62,7 +62,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
   <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
-      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+      <img src="/images/paper/FastKV.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
@@ -75,7 +75,7 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
 
   <div style="display:flex; gap:16px; margin-bottom:22px; align-items:flex-start;">
     <div style="flex:0 0 150px;">
-      <img src="/images/500x300.png" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
+      <img src="/images/paper/BinaryMoS.PNG" alt="Paper thumbnail" style="width:180px; height:120px; object-fit:cover; border:1px solid #ddd; border-radius:4px;">
     </div>
     <div style="flex:1; min-width:0;">
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Paper Title 2: Quantization-Aware Training for Diffusion Models</p>
