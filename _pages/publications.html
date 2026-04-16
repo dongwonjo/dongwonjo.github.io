@@ -11,26 +11,121 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publications-list">
 
+  <!-- ===================== -->
+  <!-- Preprints / arXiv     -->
+  <!-- ===================== -->
+  <h2>Preprints</h2>
+  <hr />
 
+  <div class="pub-entry">
+    <div class="pub-thumb">
+      <img src="/images/paper/tsa.png" alt="Token Sparse Attention thumbnail">
+    </div>
+    <div class="pub-info">
+      <p class="pub-title">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX">Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection</a>
+      </p>
+      <p class="pub-authors">
+        <strong>Dongwon Jo</strong>, Beomseok Kang, Jiwon Song, Jae-Joon Kim
+      </p>
+      <p class="pub-venue"><em>arXiv 2026</em></p>
+      <p class="pub-links">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX" class="btn btn--primary btn--small">Paper</a>
+        <a href="https://github.com/dongwonjo/XXX" class="btn btn--primary btn--small">Code</a>
+      </p>
+    </div>
+  </div>
 
+  <!-- ===================== -->
+  <!-- Conference Papers     -->
+  <!-- ===================== -->
+  <h2>Conference Papers</h2>
+  <hr />
+
+  <div class="pub-entry">
+    <div class="pub-thumb">
+      <img src="/images/paper/fastkv.png" alt="FastKV thumbnail">
+    </div>
+    <div class="pub-info">
+      <p class="pub-title">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX">FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration</a>
+      </p>
+      <p class="pub-authors">
+        <strong>Dongwon Jo</strong>*, Jiwon Song*, Yulhwa Kim, Jae-Joon Kim
+      </p>
+      <p class="pub-venue"><em>ACL Findings 2026</em></p>
+      <p class="pub-links">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX" class="btn btn--primary btn--small">Paper</a>
+        <a href="https://github.com/dongwonjo/XXX" class="btn btn--primary btn--small">Code</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-thumb">
+      <img src="/images/paper/mos.png" alt="Mixture of Scales thumbnail">
+    </div>
+    <div class="pub-info">
+      <p class="pub-title">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX">Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models</a>
+      </p>
+      <p class="pub-authors">
+        <strong>Dongwon Jo</strong>, Taesu Kim, Yulhwa Kim, Jae-Joon Kim
+      </p>
+      <p class="pub-venue"><em>NeurIPS 2024</em></p>
+      <p class="pub-links">
+        <a href="https://arxiv.org/abs/XXXX.XXXXX" class="btn btn--primary btn--small">Paper</a>
+        <a href="https://github.com/dongwonjo/XXX" class="btn btn--primary btn--small">Code</a>
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<!-- ===================== -->
+<!-- CSS (inline style)    -->
+<!-- ===================== -->
+<style>
+.publications-list h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.2em;
+}
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 1.6em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid #e0e0e0;
+}
+.pub-thumb {
+  flex: 0 0 110px;
+}
+.pub-thumb img {
+  width: 110px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.pub-info {
+  flex: 1;
+}
+.pub-title {
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0 0 0.25em 0;
+}
+.pub-authors {
+  margin: 0 0 0.15em 0;
+  font-size: 0.9em;
+}
+.pub-venue {
+  margin: 0 0 0.4em 0;
+  font-size: 0.85em;
+  color: #555;
+}
+.pub-links {
+  margin: 0;
+}
+</style>
