@@ -5,6 +5,17 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<style>
+.page__content {
+  max-width: 700px;
+}
+.page__content p + p img,
+.page__content p + img,
+.page__content p ~ img {
+  margin-top: 1.5em;
+}
+</style>
+
 {% include base_path %}
 
 {% assign sorted_portfolio = site.portfolio | sort: "date" | reverse %}
