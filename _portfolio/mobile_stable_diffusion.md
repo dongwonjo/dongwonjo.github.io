@@ -5,7 +5,7 @@ collection: portfolio
 date: 2023-05-01
 ---
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Keywords
 
@@ -15,7 +15,7 @@ date: 2023-05-01
 - Quantized, pruned and distilled
 - < 8 sec / image (512×512)
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## What is Stable Diffusion?
 
@@ -23,7 +23,7 @@ Stable Diffusion is a deep learning-based text-to-image generation model release
 
 The model consists of three sub-components: a **text encoder**, a **diffusion model (U-Net)**, and a **decoder**. In total, Stable Diffusion has 1B+ parameters and requires 2GB+ memory (assuming FP16 precision). Thus, most Stable Diffusion-based applications rely on GPUs in local or cloud environments.
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Compressing Stable Diffusion for Mobile
 
@@ -58,7 +58,7 @@ Several non-trivial engineering challenges were addressed:
 - **Diffusion loop optimization**: Naïvely looping the GPU delegate incurs Host↔Device memory transfer overhead on every iteration. We implemented a custom GPU delegate with a *diffusion mode* that swaps input/output buffer indices of the OpenCL program via `clSetKernelArgs`, achieving the same speed as graph unrolling while keeping memory usage equivalent to repeated inference.
 - **Async pipeline**: Loading all four components (Text Encoder, Image Encoder, U-Net, Decoder) onto the GPU simultaneously causes kernel panic on Android due to memory limits. We implemented an **asynchronous load/unload pipeline**. The U-Net persists on GPU memory throughout the diffusion loop, while the Decoder is preloaded in a separate thread during the final denoising step to hide its loading latency.
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Demo
 
@@ -67,7 +67,7 @@ Several non-trivial engineering challenges were addressed:
   Your browser does not support the video tag.
 </video>
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Results
 
@@ -80,7 +80,7 @@ Several non-trivial engineering challenges were addressed:
 | Latency | ~15 sec / image | **< 8 sec / image** |
 | Resolution | 512×512 | 512×512 |
 
-<hr style="border: none; border-top: 1px solid #e0e0e0;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Links
 - 📄 [Project Page](https://squeezebits.notion.site/Mobile-Stable-Diffusion-2549eb534be54ddda3c86f2a32795948)
