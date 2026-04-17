@@ -23,7 +23,7 @@ Stable Diffusion is a deep learning-based text-to-image generation model release
 
 The model consists of three sub-components: a **text encoder**, a **diffusion model (U-Net)**, and a **decoder**. In total, Stable Diffusion has 1B+ parameters and requires 2GB+ memory (assuming FP16 precision). Thus, most Stable Diffusion-based applications rely on GPUs in local or cloud environments.
 
-<hr style="border-top: 2px solid #333;">
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.5em;">
 
 ## Compressing Stable Diffusion for Mobile
 
