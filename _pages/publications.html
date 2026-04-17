@@ -168,10 +168,11 @@ author_profile: true
   border-bottom: 1px solid #e0e0e0;
 }
 .pub-thumb {
-  flex: 0 0 200px;
+  flex: 0 0 min(200px, 30%);
+  min-width: 80px;
 }
 .pub-thumb img {
-  width: 200px;
+  width: 100%;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -204,5 +205,15 @@ author_profile: true
 }
 .pub-links {
   margin: 0;
+}
+@media (max-width: 480px) {
+  .pub-entry {
+    flex-direction: column;
+  }
+  .pub-thumb {
+    flex: none;
+    width: 100%;
+    max-width: 240px;
+  }
 }
 </style>
