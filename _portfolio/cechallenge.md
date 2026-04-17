@@ -17,7 +17,9 @@ The **2023 Samsung Computer Engineering Challenge** tasked participants with min
 
 Our team proposed **Redundant Token Sharing** combined with kernel-level optimizations, achieving a **7.86× speedup** over the lm-eval baseline while fully reproducing original model accuracy.
 
-<img src='/images/projects/cechallenge_overview.png' width='100%'>
+<p align="center">
+  <img src='/images/projects/cechallenge_overview.png' width='70%'>
+</p>
 
 <hr style="border-top: 2px solid #e0e0e0;">
 
@@ -40,7 +42,9 @@ Three modifications were required to make the meta-pair forward equivalent to 4 
 2. **Positional embedding modification**: apply per-segment positional encoding so each Aᵢ sees positions relative to Q, not to the preceding answers
 3. **Attention mask with custom bias**: use a `LowerTriangularCausalMaskWithTensorBias` that masks out cross-answer attention (Aᵢ ↛ Aⱼ) while preserving Q→A attention for all answers
 
+<p align="center">
 <img src='/images/projects/cechallenge_redundant.PNG' width='100%'>
+</p>
 
 <hr style="border-top: 2px solid #e0e0e0;">
 
@@ -54,7 +58,9 @@ The custom attention bias tensor was reshaped from diagonal to **column extensio
 
 In the original 4-GPU model-parallel setup, computing the score for each answer token requires an **all-gather** of the full logit tensor (vocab size = 32,000) across GPUs. We restructured score gathering so that only the relevant answer token logits are gathered, significantly reducing inter-GPU communication volume (logit all-gather operation optimization).
 
+<p align="center">
 <img src='/images/projects/cechallenge_kernel.PNG' width='100%'>
+</p>
 
 <hr style="border-top: 2px solid #e0e0e0;">
 
