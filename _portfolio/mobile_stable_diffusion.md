@@ -1,11 +1,9 @@
 ---
 title: "Mobile Stable Diffusion"
-excerpt: "SqueezeBits team and collaborator SNU-VLSI lab have successfully developed Mobile Stable Diffusion by compressing the Stable Diffusion v2.1 model to run on Galaxy S22 device. <br/><img src='/images/projects/mobile_stable_diffusion.PNG'>"
+excerpt: "SqueezeBits team and collaborator SNU-VLSI lab have successfully developed Mobile Stable Diffusion by compressing the Stable Diffusion v2.1 model to run on Galaxy S22 device. <br/><img src='/images/projects/mobile_stable_diffusion.png'>"
 collection: portfolio
 date: 2023-05-01
 ---
-
-Find more information about SqueezeBits Inc. on [squeezebits.com](http://squeezebits.com/)
 
 ## Keywords
 
