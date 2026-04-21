@@ -1,6 +1,6 @@
 ---
 title: "Token Sparse Attention"
-excerpt: " Token Sparse Attention introduces a dynamic and complementary token-level sparsification mechanism for the long-context inference"
+excerpt: " Token Sparse Attention introduces a dynamic and complementary token-level sparsification mechanism for the long-context inference<br/><img src='/images/projects/token_sparse/token_sparse_fig3.PNG'>"
 collection: portfolio
 date: 2026-04-19
 ---
