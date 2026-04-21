@@ -47,7 +47,7 @@ Token Sparse Attention is designed to be **complementary** to existing attention
 <div align=center>
 <img src="/images/projects/token_sparse/token_sparse_ruler2.PNG" width="80%">
 </div>
-
+<br/>
 
 The combination with FlexPrefill is particularly strong. Token Sparse Attention pushes its Pareto frontier outward, reaching ×2.76 attention speedup at the same 87.3% RULER accuracy that FlexPrefill achieves at ×2.44. This gain cannot be replicated by simply tuning FlexPrefill's hyperparameter. Aggressively increasing sparsity within FlexPrefill alone leads to rapid accuracy degradation, whereas Token Sparse Attention provides additional speedup while keeping accuracy stable. Furthermore, the token coverage parameter τ offers a flexible knob: increasing τ yields higher attention speedups for both FlashAttention and FlexPrefill, with accuracy degradation remaining within 1% even at aggressive sparsity levels.
 
