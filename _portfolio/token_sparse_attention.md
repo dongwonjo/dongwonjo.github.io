@@ -16,7 +16,6 @@ We propose **Token Sparse Attention**, a lightweight and dynamic token-level spa
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
 
 ## Demo
-
 ### 🚀 Token Sparse Attention: Push the Limit of Attention
 
 <video width="100%" controls>
