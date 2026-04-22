@@ -84,6 +84,6 @@ The end-to-end prefill latency gains closely mirror the attention-level speedups
 ## Links
 
 - 📄 [Paper](https://arxiv.org/abs/2602.03216)
-- 📦 [Code (GitHub)](https://github.com/dongwonjo/Token-Sparse-Attention)
+- 📦 [Code](https://github.com/dongwonjo/Token-Sparse-Attention)
 
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin-bottom: 0.1em;">
