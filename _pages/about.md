@@ -68,8 +68,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration</p>
       <p class="research-authors" style="font-size:0.8em; margin:0 0 4px 0;"><strong>Dongwon Jo*</strong>, Jiwon Song*, Yulhwa Kim, Jae-Joon Kim</p>
       <p class="research-venue" style="font-size:0.8em; margin:0 0 8px 0;"><em>ACL Findings 2026</em></p>
-      <a href="https://arxiv.org/abs/2502.01068" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="https://github.com/dongwonjo/FastKV" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <a href="https://arxiv.org/abs/2502.01068" class="btn btn--primary btn--small">Paper</a>
+      <a href="https://github.com/dongwonjo/FastKV" class="btn btn--primary btn--small">Code</a>
     </div>
   </div>
 
@@ -81,8 +81,8 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
       <p style="font-size:0.9em; font-weight:bold; margin:0 0 4px 0; line-height:1.4;">Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models</p>
       <p class="research-authors" style="font-size:0.8em; margin:0 0 4px 0;"><strong>Dongwon Jo</strong>, Taesu Kim, Yulhwa Kim, Jae-Joon Kim</p>
       <p class="research-venue" style="font-size:0.8em; margin:0 0 8px 0;"><em>NeurIPS 2024</em></p>
-      <a href="https://arxiv.org/abs/2406.12311" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; margin-right:6px; background:#fff;">Paper</a>
-      <a href="https://github.com/dongwonjo/BinaryMoS" style="display:inline-block; font-size:0.75em; padding:3px 10px; border:1px solid #333; border-radius:3px; color:#333; text-decoration:none; background:#fff;">Code</a>
+      <a href="https://arxiv.org/abs/2406.12311" class="btn btn--primary btn--small">Paper</a>
+      <a href="https://github.com/dongwonjo/BinaryMoS" class="btn btn--primary btn--small">Code</a>
     </div>
   </div>
 </div>
