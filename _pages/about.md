@@ -157,10 +157,10 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
     <td style="border:none; text-align:right;"></td>
   </tr>
   <tr>
-    <td style="border:none; padding: 2px 0;" colspan="2">NeurIPS 2025, ICML 2026 (Gold Reviewer), NeurIPS 2026</td>
+    <td style="border:none; padding: 2px 0;" colspan="2">NeurIPS 2025, ICML 2026 (<stroing>Gold Reviewer</stroing>), NeurIPS 2026</td>
   </tr>
   <tr>
-    <td style="border:none; padding: 4px 0;"><strong>Journal Reviewer</strong></td>
+    <td style="border:none; padding: 12px 0 4px 0;"><strong>Journal Reviewer</strong></td>
     <td style="border:none; text-align:right;"></td>
   </tr>
   <tr>
