@@ -166,6 +166,9 @@ Currently, my research primarily targets <strong>generative models</strong>, inc
   <tr>
     <td style="border:none; padding: 2px 0;" colspan="2">IEEE Transactions on Multimedia (TMM)</td>
   </tr>
+  <tr>
+    <td style="border:none; padding: 2px 0;" colspan="2">Transactions on Machine Learning Research (TMLR)</td>
+  </tr>
 </table>
 
 <p style="font-size: 1.2em; font-weight: bold; margin-top: 30px; margin-bottom: 0.2em;">Teaching</p>
